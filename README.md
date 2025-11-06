@@ -1,2 +1,1 @@
-"amo la musica de carolina" 
-"# carolina_repo" 
+"amo la musica de carolina"
